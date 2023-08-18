@@ -1,6 +1,6 @@
 ## Installation
 ```bash
-$ pip install https://github.com/unscript-ai/video_analyzer.git
+$ pip install git+https://github.com/unscript-ai/video_analyzer.git
 ```
 
 ## Usage
